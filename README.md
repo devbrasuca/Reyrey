@@ -1,2 +1,0 @@
-# Kanna-chan
-S
