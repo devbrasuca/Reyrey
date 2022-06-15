@@ -21,4 +21,4 @@ async def on_message(message):
 #     await ctx.send (response)
 
 
-bot.run('ODY5NzEyNDc2OTE5NDYzOTg5.GgXrHE.KXLmodTyVmUPKEMtgcuz7MkyO3knZjlYaQwRU0')
+bot.run('')
